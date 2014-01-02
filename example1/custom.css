@@ -1,0 +1,12 @@
+.navbar-inner {
+  padding: 0;
+}
+
+.nav li {
+  text-align: center;
+  border-right: 1px #CCC solid;
+}
+
+.nav li:last-child {
+  border-right: 0
+}
